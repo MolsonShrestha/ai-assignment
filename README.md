@@ -62,6 +62,8 @@ Robustness: Can handle noisy fitness evaluations and complex objective functions
 
 -Parameter Sensitivity: Performance can vary based on parameter settings such as population size, crossover rate, and mutation rate.
 No Guarantee of Global Optimum: While capable of finding good solutions, genetic algorithms do not guarantee finding the absolute best solution.
+
 #Conclusion
+
 Genetic algorithms provide a powerful approach to solving optimization and search problems in artificial intelligence. By leveraging principles of evolution and genetics, they offer robust solutions to complex problems across diverse domains, contributing significantly to the field of computational intelligence and AI-driven decision-making processes.
 
